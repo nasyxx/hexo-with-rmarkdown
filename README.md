@@ -17,7 +17,7 @@ for details: [github.com/rstudio/rmarkdown][link of rmarkdown]
 
 ## Demo
 render the `demo.html` file into hexo style file `demo.html.hexo.md`.
-```python
+```bash
 python hexo-with-rmarkdown.py [filename]
 ```
 
