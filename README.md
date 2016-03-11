@@ -1,5 +1,5 @@
 # hexo-with-rmarkdown
-ssssss
+
 ## Before
 To blogging with R, you should first install package 'rmarkdown'.
 ### a simple tutorial
@@ -13,10 +13,9 @@ then render the `Rmd` file into `html` file.
 #language: R
 render('[filename]')
 ```
-for details: [here][link of rmarkdown]
+for details: [github.com/rstudio/rmarkdown][link of rmarkdown]
 
-## Start
-### demo
+## Demo
 render the `demo.html` file into hexo style file `demo.html.hexo.md`.
 ```python
 python hexo-with-rmarkdown.py [filename]
