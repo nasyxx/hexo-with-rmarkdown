@@ -8,7 +8,7 @@ output:
     fig_caption: true
 ---
 
-## Demo
+## If you preview this file with GitHub, please tap "raw".
 ### R version
 ```{R}
 R.Version()$version.string
