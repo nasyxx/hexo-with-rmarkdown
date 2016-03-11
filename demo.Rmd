@@ -1,0 +1,22 @@
+---
+title: "This is a demo"
+output:
+  html_document:
+    toc: true
+    fig_width: 6
+    fig_height: 6
+    fig_caption: true
+---
+
+## Demo
+### R version
+```{R}
+R.Version()$version.string
+```
+
+### Some R script
+```{R}
+mydata <- rnorm(n=20, mean=0, sd=1)
+mydata
+barplot(mydata)
+```
